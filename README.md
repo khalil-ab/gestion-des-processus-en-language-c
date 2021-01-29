@@ -28,3 +28,27 @@ Il faut noter aussi que chaque processus est périodique, et est caractérisé p
 •	Le temps d'entrée sortie du processus
 
 Lorsque le programme est en marche, l'utilisateur charge le fichier TXT contenant le BCP de chaque processus ensuite il choisit le type d'algorithme d'ordonnancement du premier cas (sans état bloqué) ou deuxième cas (avec état bloqué), il précise le temps d'arrêt (N) puis il reçoit la grille qui résume comment les processus partageront le processeur avec ou sans périphérique d'entrée-sortie pendant les N premières unités selon le cas utilisé  et selon le type d'algorithme choisis.  
+
+<p align="center">
+  <img src="/0.png">
+</p>
+<p align="center">
+  <img src="/1.png">
+</p>
+<p align="center">
+  <img src="/2.png">
+</p>
+<p align="center">
+  <img src="/3.png">
+</p>
+<p align="center">
+  <img src="/4.png">
+</p>
+<p align="center">
+  <img src="/5.png">
+</p>
+<p align="center">
+  <img src="/6.png">
+</p>
+
+Voici mon email si quelqu'un voudrait me contacter : abouabdelmajidkhalil@gmail.com
