@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1489351033 source:c:\users\user\desktop\ordo3p1b\algo_ordo\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1491511755 source:c:\users\user\desktop\ordo3p1b\ordo3p1b\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1494877076 source:c:\users\user\desktop\mon espace\emsi\cours\mini projets\ordo3p1b\ordo3p1b\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1494884276 source:d:\lc\ordo3p1b\ordo3p1b\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
